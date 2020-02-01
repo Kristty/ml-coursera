@@ -6,7 +6,7 @@ Instructor Andrew Ng
 Repository contains solutions to programming assignments and lecture slides of this course.
 
 There are 8 exercises in the course: 
- - Ex 1 - Linear Regression
+ - [Ex 1 - Linear Regression](/ex1-linear-regression/)
  - Ex 2 - Logistic Regression
  - Ex 3 - Multi-class Classification and Neural Networks
  - Ex 4 - Neural Network Learning
