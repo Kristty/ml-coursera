@@ -7,7 +7,7 @@ Repository contains solutions to programming assignments and lecture slides of t
 
 There are 8 exercises in the course: 
  - [Ex 1 - Linear Regression](/ex1-linear-regression/)
- - Ex 2 - Logistic Regression
+ - [Ex 2 - Logistic Regression](/ex2-logistic-regression/)
  - Ex 3 - Multi-class Classification and Neural Networks
  - Ex 4 - Neural Network Learning
  - Ex 5 - Regularized Linear Regression and Bias/Variance
