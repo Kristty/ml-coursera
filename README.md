@@ -13,4 +13,4 @@ There are 8 exercises in the course:
  - [Ex 5 - Regularized Linear Regression and Bias/Variance](/ex5-regularized-linear-regression/)
  - [Ex 6 - Support Vector Machines](/ex6-support-vector-machines/)
  - [Ex 7 - K-Means clustering and PCA](/ex7-k-means-clustering-and-pca/)
- - Ex 8 - Anomaly Detection and Recommender Systems
+ - [Ex 8 - Anomaly Detection and Recommender Systems](/ex8-anomaly-detection-and-recommender-systems/)
